@@ -2,13 +2,19 @@ body,
 html {
 	height: 100%;
 	display: grid;
-
+	font-family: 'Roboto', 'Helvetica', sans-serif;
 	background: rgb(255, 205, 134);
 	background: linear-gradient(
 		45deg,
 		rgba(255, 205, 134, 1) 0%,
 		rgba(203, 154, 236, 1) 100%
 	);
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: normal;
+	margin-top: 1rem;
+	margin-bottom: 0.5rem;
 }
 
 .container {
