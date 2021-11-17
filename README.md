@@ -33,4 +33,14 @@ Take a look at other cool stuff I've worked on:
  
 **Animal Crossing BGM IRL:** https://geraldiner.com/acnh-bgm-irl
  
-**Simple Calculator:** https://geraldiner.com/simple-calculator
+**Simple Calculator:** https://geraldiner.com/simple-calculato## Other Projects
+
+Check out other stuff I've worked on:
+
+**Rehabitter:** https://github.com/geraldiner/rehabitter
+
+**K.K. Radio:** https://github.com/geraldiner/kk-radio
+
+**Interactive Piano:** https://github.com/geraldiner/piano
+
+**Pom Poko Pomodoro:** https://github.com/geraldiner/pom-poko-pomodoro
