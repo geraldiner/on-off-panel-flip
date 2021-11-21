@@ -26,6 +26,7 @@ This works as good as I'd like it too, except I'd like to turn the radio buttons
 ## Lessons Learned
 I definitely tested my knowledge of CSS animation and positioning. After referencing some code from [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp), I reworked it to flip based on the radio button change instead of `:hover`.
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
@@ -37,5 +38,3 @@ Check out other stuff I've worked on:
 **Snapchat Clone:** https://github.com/geraldiner/snapchat-clone
 
 **K.K. Radio:** https://github.com/geraldiner/kk-radio
-
-**Interactive Piano:** https://github.com/geraldiner/piano
