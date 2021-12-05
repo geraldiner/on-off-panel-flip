@@ -2,6 +2,8 @@
 Simple on/off toggle to flip panel, featuring League of Legends KDA and KDA Prestige Skins.
 
 Disclaimer: I do not own any of the images used in this project.
+
+Live demo: https://geraldiner.github.io/on-off-panel-flip/
  
 ## How It's Made
 **Tech used:** HTML, CSS, JavaScript
